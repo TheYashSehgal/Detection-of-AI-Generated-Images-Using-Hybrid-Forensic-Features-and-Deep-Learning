@@ -28,7 +28,7 @@
 
 ## 📖 Abstract
 
-A full-stack web application that detects AI-generated images using a powerful **Smart Hybrid Fusion** approach. The system combines the semantic intelligence of a state-of-the-art Vision Transformer (**OpenAI CLIP ViT-B/32**) via zero-shot classification with classical digital image forensics — **Error Level Analysis (ELA)**, **SRM Noise Filters**, and **DCT Spectral Analysis**. The model's decisions are explainable through **Attention Rollout Heatmaps**, providing visual evidence of which image regions the transformer focused on to make its classification.
+A full-stack web application that detects AI-generated images using a hybrid approach combining classical digital image forensics with modern deep learning. The system employs three forensic techniques — **Error Level Analysis (ELA)**, **SRM Noise Filters**, and **DCT Spectral Analysis** — fused with an **EfficientNet-B0** backbone through **Squeeze-and-Excitation** attention blocks. The model's decisions are explained through **Grad-CAM** heatmaps, providing visual evidence of which image regions influenced the classification.
 
 ---
 
