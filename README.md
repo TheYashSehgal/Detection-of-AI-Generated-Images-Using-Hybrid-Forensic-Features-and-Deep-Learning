@@ -16,10 +16,10 @@
 
 | Name | Roll Number |
 |------|-------------|
-| **Aditya Dhiman** | 226310024 |
-| **Aditya Bhatia** | 226320009 |
-| **Aditya Sharma** | 226320010 |
 | **Yash Sehgal** | 226301239 |
+| **Aditya Bhatia** | 226320009 |
+| **Aditya Dhiman** | 226310024 |
+| **Aditya Sharma** | 226320010 |
 
 ### 🎓 Project Guide
 **Mr. Kuldeep Giri** — Assistant Professor, Department of CSE
