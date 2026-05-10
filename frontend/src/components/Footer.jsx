@@ -8,7 +8,7 @@ export default function Footer() {
       </p>
       <p>B.Tech CSE Major Project • GK(DU), Haridwar</p>
       <p style={{ marginTop: 8, color: 'var(--text-secondary)', fontSize: '0.8rem' }}>
-        Aditya Dhiman • Aditya Bhatia • Aditya Sharma • Yash Sehgal
+        Yash Sehgal • Aditya Bhatia • Aditya Dhiman • Aditya Sharma
       </p>
       <p style={{ color: 'var(--text-muted)', fontSize: '0.75rem' }}>
         Under the guidance of Mr. Kuldeep Giri, Assistant Professor, Dept. of CSE
