@@ -1,4 +1,4 @@
-# 🔍 AI Forensics Lab: Detection of AI-Generated Images
+# 🔍 Detection of AI-Generated Images Using Hybrid Forensic Features and Deep Learning
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org)
