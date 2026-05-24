@@ -6,6 +6,8 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green.svg)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://react.dev)
 
+🔗 **Live Demo:** [Open Application](https://detection-of-ai-generated-images-us.vercel.app/)  
+
 > **Major Project Report** — B.Tech in Computer Science & Engineering (2025-26)
 >
 > Department of Computer Science & Engineering
